@@ -25,10 +25,10 @@
 	<gl\glu.h>
 	"resource.h"
 
-1663081031 source:c:\src\opengl\nehe_lesson04-master\src\lesson04.rc
+1663077431 source:c:\src\opengl\nehe_lesson04-master\src\lesson04.rc
 	<windows.h>
 	<winver.h>
 	"resource.h"
 
-1630508176 c:\src\opengl\nehe_lesson04-master\src\resource.h
+1630504576 c:\src\opengl\nehe_lesson04-master\src\resource.h
 
